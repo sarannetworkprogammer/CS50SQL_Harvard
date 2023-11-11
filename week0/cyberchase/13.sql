@@ -1,0 +1,1 @@
+SELECT "title" FROM "episodes" WHERE "episode_in_season" ='1' AND "topic" IS NOT NULL;

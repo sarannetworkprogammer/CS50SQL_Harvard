@@ -1,0 +1,1 @@
+SELECT "schools"."name", "districts"."name" FROM "schools" JOIN "districts" ON "districts"."id" = "schools"."district_id" LIMIT 10;

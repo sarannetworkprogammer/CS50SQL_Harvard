@@ -1,0 +1,1 @@
+SELECT AVG("per_pupil_expenditure") AS "AVERAGE Districe Per-Pupil Expenditure" FROM "expenditures";
