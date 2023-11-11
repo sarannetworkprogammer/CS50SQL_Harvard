@@ -1,6 +1,6 @@
 # CS50SQL_Harvard
 Harvard course
-
+# CS50_SQL : This Course is from Harvard University
 
 
 
